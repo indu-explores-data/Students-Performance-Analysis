@@ -2,10 +2,7 @@
 
 ## 🎯 Problem Statement
 
-The education board aims to understand whether attending a test preparation course has a measurable impact on student performance in exams.  
-Specifically, the goal is to investigate whether there is a statistically significant difference in math scores between students who completed the test preparation course and those who did not.
-
-This analysis will help determine the effectiveness of such courses and support decisions around implementing or improving preparatory programs in the curriculum.
+The education board aims to understand whether attending a test preparation course has a measurable impact on student performance in exams. Specifically, the goal is to investigate whether there is a statistically significant difference in math scores between students who completed the test preparation course and those who did not. This analysis will help determine the effectiveness of such courses and support decisions around implementing or improving preparatory programs in the curriculum.
 
 ---
 
