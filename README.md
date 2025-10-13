@@ -70,7 +70,6 @@ Follow these steps to set up the project locally and run the analysis:
    ```bash
    git clone https://github.com/indu-explores-data/Students-Performance-Analysis.git
 
-
 ## 🔗 Connect with Me
 
 For feedback, collaboration opportunities, or related queries, feel free to reach out via LinkedIn:
