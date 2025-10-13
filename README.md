@@ -1,102 +1,71 @@
-# Students-Performance-Analysis
+# 🎓 Students Performance Analysis
 
-## 🎯 Problem Statement
-
-The education board aims to understand whether attending a test preparation course has a measurable impact on student performance in exams. Specifically, the goal is to investigate whether there is a statistically significant difference in math scores between students who completed the test preparation course and those who did not. This analysis will help determine the effectiveness of such courses and support decisions around implementing or improving preparatory programs in the curriculum.
+## 📌 Problem Statement
+The education board seeks to determine whether attending a **test preparation course** significantly impacts students’ exam performance, specifically in **math scores**. This study aims to evaluate if test preparation leads to measurable academic improvement, guiding decisions on curriculum enhancements and educational support programs.
 
 ---
 
-## 📊 Project Objectives
-
-- Analyze score distributions across math, reading, and writing subjects.
-- Compare performance based on gender, parental education, and test preparation status.
-- Identify score correlations.
-- Validate assumptions through statistical testing and visualizations.
-- Derive insights useful for educational policy and curriculum design.
+## 🎯 Objectives
+- Analyze score distributions in **Math**, **Reading**, and **Writing**.
+- Compare performance by **gender**, **parental education**, and **test preparation status**.
+- Examine **correlations** between subjects.
+- Conduct **statistical tests** and visual analysis to validate assumptions.
+- Provide **actionable insights** for educational policy and curriculum planning.
 
 ---
 
 ## 🗂️ Project Structure
 
 - **Students_Performance_Analysis.ipynb**  
-  Jupyter Notebook with full analysis, visualizations, and statistical conclusions.
+  Complete analysis with visualizations, statistical evaluation, and insights.
 
 - **images/**  
-  Contains the following visualization files with detailed insights:
+  Repository of key visual outputs:
 
   1. **Box Plot of Math Scores by Gender**  
-     ![Box Plot of Math Scores by Gender](images/Box%20Plot%20of%20Math%20Scores%20by%20Gender.png)  
-     Shows the distribution of math scores across gender groups to observe differences in performance.
-     
+     ![Box Plot of Math Scores by Gender](images/Box%20Plot%20of%20Math%20Scores%20by%20Gender.png)
 
-  3. **Box Plot of Math Scores by Test Preparation Status**  
-     ![Box Plot of Math Scores by Test Preparation Status](images/Box%20Plot%20of%20Math%20Scores%20by%20Test%20Preparation%20Status.png)  
-     Highlights how test preparation status affects students' math score distributions.
-     
+  2. **Box Plot of Math Scores by Test Preparation Status**  
+     ![Box Plot of Math Scores by Test Preparation Status](images/Box%20Plot%20of%20Math%20Scores%20by%20Test%20Preparation%20Status.png)
 
-  5. **Correlation Heatmap of Scores**  
-     ![Correlation Heatmap of Scores](images/Correlation%20Heatmap%20of%20Scores.png)  
-     Visualizes correlation strength between math, reading, and writing scores.
-     
+  3. **Correlation Heatmap of Scores**  
+     ![Correlation Heatmap of Scores](images/Correlation%20Heatmap%20of%20Scores.png)
 
-  7. **Histogram and Q-Q Plot**  
-     ![Histogram and Q-Q Plot](images/Histogram%20and%20Q-Q%20Plot.png)  
-     Evaluates the normality of score distributions using histograms and Q-Q plots.
-     
+  4. **Histogram and Q-Q Plot**  
+     ![Histogram and Q-Q Plot](images/Histogram%20and%20Q-Q%20Plot.png)
 
-  9. **Math Score Distribution by Test Prep**  
-     ![Math Score Distribution by Test Prep](images/Math%20Score%20Distribution%20by%20Test%20Prep.png)  
-     Shows how math scores are distributed with and without test preparation.
-     
+  5. **Math Score Distribution by Test Prep**  
+     ![Math Score Distribution by Test Prep](images/Math%20Score%20Distribution%20by%20Test%20Prep.png)
 
-  11. **Pairplot of Scores by Test Preparation**  
-     ![Pairplot of Scores by Test Preparation](images/Pairplot%20of%20Scores%20by%20Test%20Preparation.png)  
-     Displays pairwise relationships between math, reading, and writing scores segmented by test preparation status.
-
-
-   13. **Key Insights & Outcomes**  
-     ![Key Insights & Outcomes](images/Key%20Insights%20%26%20Outcomes.png)  
-     Summarizes major findings and visual trends from the analysis.
-
+  6. **Pairplot of Scores by Test Preparation**  
+     ![Pairplot of Scores by Test Preparation](images/Pairplot%20of%20Scores%20by%20Test%20Preparation.png)
 
 ---
 
-## 🔍 Key Findings
-
-- **Test Preparation Impact:**  
-  Students who completed the test preparation course scored higher on math exams on average, suggesting a positive impact.
-
-- **Gender Differences:**  
-  Males showed slightly higher math scores, while females performed better in reading and writing.
-
-- **Correlation Insights:**  
-  Reading and writing scores have a strong positive correlation, indicating performance consistency in language-related subjects.
-
-- **Score Distributions:**  
-  Visual analysis showed near-normal distributions for most scores, validated through histograms and Q-Q plots.
+## 🔍 Key Insights & Outcomes
+- Students who completed the test preparation course scored significantly higher in math than those who did not, indicating a positive impact of test preparation.
+- There is a statistically significant difference in performance between the two student groups (Completed and None) based on test preparation status.
+- Math and reading scores are not normally distributed, suggesting that student performance data may often be skewed or unevenly spread.
+- The difference in math scores between groups (Completed and None) is not due to random chance, but reflects a real, measurable effect.
+- The analysis supports the importance of preparation and study support programs in improving academic outcomes.
+- Boys and girls may show slight differences in math scores, based on the gender-based box plots.
+- Students who perform well in one subject (like reading) often do well in others (like writing or math), showing a strong link between skills.
+- The visualizations like box plots helped us clearly see the score differences between groups.
+- There may be underlying variability in how students perform across subjects, which is influenced by factors like preparation, effort, or access to resources.
 
 ---
 
-## 🛠️ Tools & Technologies
-
-- **Languages & Libraries:**  
-  - Python  
-  - Pandas  
-  - NumPy  
-  - Matplotlib  
-  - Seaborn  
-  - SciPy
-
-- **Environment:**  
-  - Jupyter Notebook  
+## 🛠️ Technologies & Tools
+- **Languages & Libraries:** Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy  
+- **Environment:** Jupyter Notebook
 
 ---
 
-## 📁 How to Use
+## 💻 Setup & Installation Instructions
+1. **Clone the Repository:**
+```bash
+git clone https://github.com/indu-explores-data/Students-Performance-Analysis.git
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/indu-explores-data/Students-Performance-Analysis.git
 
 ## 🔗 Connect with Me
 
