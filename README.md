@@ -69,6 +69,33 @@ Follow these steps to set up the project locally and run the analysis:
    Open a terminal or command prompt and run:  
    ```bash
    git clone https://github.com/indu-explores-data/Students-Performance-Analysis.git
+``
+2. Navigate to the Project Directory:
+```
+cd Students-Performance-Analysis
+```
+3. Create and Activate a Virtual Environment (Recommended):
+```
+python -m venv venv
+```
+Windows:
+```
+venv\Scripts\activate
+```
+Mac/Linux:
+```
+source venv/bin/activate
+```
+4. Install Required Libraries:
+```
+pip install pandas numpy matplotlib seaborn scipy jupyter
+```
+5. Launch Jupyter Notebook:
+```
+jupyter notebook
+```
+6. Open Students_Performance_Analysis.ipynb and run all cells to reproduce the analysis.
+
 
 ## 🔗 Connect with Me
 
@@ -76,6 +103,11 @@ For feedback, collaboration opportunities, or related queries, feel free to reac
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/indu-r-3a3767170/)
 
+---
+
+## 🙌 Feedback & Support
+-
+If you found this project helpful or interesting, feel free to ⭐ star the repository and share your thoughts. Contributions and suggestions are always welcome!
 
 
 
