@@ -67,9 +67,9 @@ Follow these steps to set up the project locally and run the analysis:
 
 1. **Clone the Repository**  
    Open a terminal or command prompt and run:  
-   ```bash
-   git clone https://github.com/indu-explores-data/Students-Performance-Analysis.git
-``
+ ```bash
+git clone https://github.com/indu-explores-data/Students-Performance-Analysis.git
+```
 2. Navigate to the Project Directory:
 ```
 cd Students-Performance-Analysis
