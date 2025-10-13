@@ -14,7 +14,7 @@ The education board seeks to determine whether attending a **test preparation co
 
 ---
 
-## 🗂️ Project Structure
+## 🗂️ Project Structure and Visualizations
 
 - **Students_Performance_Analysis.ipynb**  
   Complete analysis with visualizations, statistical evaluation, and insights.
