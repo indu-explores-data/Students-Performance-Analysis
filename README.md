@@ -98,6 +98,15 @@ Open a terminal or command prompt and run:
 
 ---
 
+## 🚀 Usage / How to Run
+
+- Open **Students_Performance_Analysis.ipynb** in **Jupyter Notebook**.  
+- Run all cells sequentially to execute the analysis.  
+- Explore visualizations and statistical insights from the notebook.  
+- Review final findings and conclusions in the output cells.  
+
+---
+
 ## 🔗 Connect with Me
 
 Let’s connect on LinkedIn for project discussions or data-driven collaborations:
