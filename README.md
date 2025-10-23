@@ -94,7 +94,7 @@ Open a terminal or command prompt and run:
    ```
    jupyter notebook
    ```
-**6. Open *Students_Performance_Analysis.ipynb* and run all cells to reproduce the analysis.**
+**6. Open `Students_Performance_Analysis.ipynb` and run all cells to reproduce the analysis.**
 
 ---
 
