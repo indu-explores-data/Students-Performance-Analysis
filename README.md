@@ -94,13 +94,13 @@ Open a terminal or command prompt and run:
    ```
    jupyter notebook
    ```
-**6. Open `Students_Performance_Analysis.ipynb` and run all cells to reproduce the analysis.**
+**6. Open `Students Performance Analysis.ipynb` and run all cells to reproduce the analysis.**
 
 ---
 
 ## 🚀 Usage / How to Run
 
-- Open **Students_Performance_Analysis.ipynb** in **Jupyter Notebook**.  
+- Open **Students Performance Analysis.ipynb** in **Jupyter Notebook**.  
 - Run all cells sequentially to execute the analysis.  
 - Explore visualizations and statistical insights from the notebook.  
 - Review final findings and conclusions in the output cells.  
